@@ -55,7 +55,7 @@ section > label {
 input[type="submit"],
 .button {
   position: relative;
-  background: #ec5990;
+  background: #fd1a09;
   color: white;
   text-transform: uppercase;
   border: none;
@@ -64,7 +64,7 @@ input[type="submit"],
   font-size: 16px;
   font-weight: 100;
   letter-spacing: 4px;
-  display: block;
+  display:block;
   appearance: none;
   border-radius: 4px;
   width: 100%;
